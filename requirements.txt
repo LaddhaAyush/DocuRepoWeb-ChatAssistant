@@ -1,0 +1,24 @@
+langchain
+sentence_transformers
+torch
+pypdf
+qdrant-client
+ os
+streamlit
+numpy 
+pandas
+faiss
+langchain.schema 
+langchain.text_splitter 
+langchain.document_loaders
+dotenv 
+google.generativeai 
+groq
+time
+qdrant_client 
+langchain.vectorstores 
+langchain.embeddings 
+langchain.chains 
+langchain.memory 
+langchain_groq 
+PyPDF2 

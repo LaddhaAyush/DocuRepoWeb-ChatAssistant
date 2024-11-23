@@ -1,0 +1,2597 @@
+page_content,source
+"Home
+
+Python
+
+Java
+
+JavaScript
+
+HTML
+
+SQL
+
+PHP
+
+C#
+
+C++
+
+DS
+
+Aptitude
+
+Reasoning
+
+Selenium
+
+DBMS
+
+C
+
+Andriod
+
+Interview Q
+
+C++ Tutorial | Learn C++
+
+C vs C++
+
+C++ History
+
+C++ Features
+
+C++ Installation
+
+C++ Program
+
+C++ cout, cin, endl
+
+C++ Variable
+
+C++ Data types
+
+C++ Keywords
+
+C++ Operators
+
+C++ Identifiers
+
+C++ Expression
+
+C++ if-else
+
+C++ switch
+
+C++ For Loop
+
+C++ While Loop
+
+C++ Do-While Loop
+
+C++ Break Statement
+
+C++ Continue Statement
+
+C++ Goto Statement
+
+C++ Comments
+
+C++ Functions",https://www.javatpoint.com/cpp-oops-concepts
+"C++ Goto Statement
+
+C++ Comments
+
+C++ Functions
+
+Call by value & reference
+
+C++ Recursion
+
+C++ Storage Classes
+
+C++ Arrays
+
+C++ Array to Function
+
+Multidimensional Arrays
+
+C++ Pointers
+
+sizeof() operator in C++
+
+C++ Array of Pointers
+
+C++ Void Pointer
+
+C++ References
+
+Reference vs Pointer
+
+Function Pointer in C++
+
+C++ Memory Management
+
+malloc() vs new in C++
+
+free vs delete in C++
+
+C++ OOPs Concepts
+
+C++ Object Class
+
+C++ Constructor
+
+C++ Copy Constructor
+
+C++ Destructor
+
+C++ this Pointer",https://www.javatpoint.com/cpp-oops-concepts
+"C++ Destructor
+
+C++ this Pointer
+
+C++ static
+
+C++ Structs
+
+C++ Enumeration
+
+C++ Friend Function
+
+C++ Math Functions
+
+C++ Inheritance
+
+C++ Aggregation
+
+C++ Polymorphism
+
+C++ Overloading
+
+C++ Overriding
+
+C++ Virtual Function
+
+C++ Interfaces
+
+C++ Data Abstraction
+
+C++ Namespaces
+
+C++ Strings
+
+C++ Exception Handling
+
+C++ try/catch
+
+C++ User-Defined
+
+C++ Templates
+
+C++ Signal Handling
+
+C++ File & Stream
+
+C++ getline()
+
+C++ vs C#
+
+C++ int to string
+
+C++ vs Python
+
+Structure vs Class in C++",https://www.javatpoint.com/cpp-oops-concepts
+"C++ vs Python
+
+Structure vs Class in C++
+
+Virtual Destructor in C++
+
+Constructor vs Destructor in C++
+
+Bit manipulation C++
+
+What is a reference variable
+
+Friend Function in C++
+
+Snake Code in C++
+
+Inline function in C++
+
+Virtual function vs Pure virtual function in C++
+
+How to Split strings in C++
+
+Range-based for loop in C++
+
+Type Conversion in C++
+
+LCM of two numbers in C++
+
+Convert string to integer in C++
+
+C++ STL Components
+
+C++ Vector
+
+Initialize Vector in C++
+
+C++ Deque
+
+C++ List",https://www.javatpoint.com/cpp-oops-concepts
+"Initialize Vector in C++
+
+C++ Deque
+
+C++ List
+
+C++ Set
+
+C++ Stack
+
+C++ Queue
+
+C++ Priority Queue
+
+C++ Map
+
+C++ Multimap
+
+C++ Map
+
+C++ Bitset
+
+C++ Algorithm
+
+algorithm adjacent_find() function
+
+algorithm any_of() function
+
+algorithm copy() function
+
+algorithm copy_if() function
+
+algorithm count() function
+
+algorithm count_if() function
+
+algorithm equal() function
+
+algorithm find() function
+
+algorithm find_end() function
+
+algorithm find_first_of() function
+
+algorithm find_if() function",https://www.javatpoint.com/cpp-oops-concepts
+"algorithm find_if() function
+
+algorithm find_if_not() function
+
+algorithm for_each() function
+
+algorithm move() function
+
+algorithm all_of() function
+
+algorithm copy_backward() function
+
+algorithm copy_n() function
+
+algorithm search() function
+
+algorithm is_permutation() function
+
+algorithm mismatch() function
+
+algorithm move_backward() function
+
+algorithm none_of() function
+
+algorithm search_n() function
+
+algorithm swap() function
+
+algorithm fill() function
+
+algorithm iter_swap() function",https://www.javatpoint.com/cpp-oops-concepts
+"algorithm iter_swap() function
+
+algorithm replace_copy_if() function
+
+algorithm replace_copy() function
+
+algorithm replace_if() function
+
+algorithm replace() function
+
+algorithm swap_ranges() function
+
+algorithm transform() function
+
+algorithm fill_n() function
+
+algorithm generate_n() function
+
+algorithm generate() function
+
+algorithm remove() function
+
+algorithm is_partitioned() function
+
+algorithm random_shuffle() function
+
+algorithm remove_copy_if() function",https://www.javatpoint.com/cpp-oops-concepts
+"algorithm remove_copy_if() function
+
+algorithm remove_copy() function
+
+algorithm partition_copy() function
+
+algorithm partition_point() function
+
+algorithm partition() function
+
+algorithm remove_if() function
+
+algorithm reverse_copy() function
+
+algorithm reverse() function
+
+algorithm rotate_copy() function
+
+algorithm rotate() function
+
+algorithm shuffle() function
+
+algorithm stable_partition() function
+
+algorithm unique_copy() function
+
+algorithm unique() function",https://www.javatpoint.com/cpp-oops-concepts
+"algorithm unique() function
+
+algorithm is_sorted_until() function
+
+algorithm is_sorted() function
+
+algorithm lower_bound() function
+
+algorithm nth_element() function
+
+algorithm partial_sort_copy() function
+
+algorithm partial_sort() function
+
+algorithm sort() function
+
+algorithm stable_sort() function
+
+algorithm binary_search() function
+
+algorithm equal_range() function
+
+algorithm includes() function
+
+algorithm inplace_merge() function
+
+algorithm merge() function
+
+algorithm set_union() function",https://www.javatpoint.com/cpp-oops-concepts
+"algorithm set_union() function
+
+algorithm upper_bound() function
+
+C++ Iterators
+
+C++ Bidirectional Iterator
+
+C++ Forward Iterator
+
+C++ Input Iterator
+
+C++ Output Iterator
+
+C++Programs
+
+Fibonacci Series
+
+Prime Number
+
+Palindrome Number
+
+Factorial
+
+Armstrong Number
+
+Sum of digits
+
+Reverse Number
+
+Swap Number
+
+Matrix Multiplication
+
+Decimal to Binary
+
+Number in Characters
+
+Alphabet Triangle
+
+Number Triangle
+
+Fibonacci Triangle
+
+Char array to string in C++
+
+Calculator Program in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Calculator Program in C++
+
+Program to convert infix to postfix expression in C++ using the Stack Data Structure
+
+C++ program to merge two unsorted arrays
+
+C++ coin change program
+
+C++ program to add two complex numbers using class
+
+C++ program to find the GCD of two numbers
+
+C++ program to find greatest of four numbers
+
+Delete Operator in C++
+
+How to concatenate two strings in c++
+
+Upcasting and Downcasting in C++
+
+C++ Dijkstra Algorithm using the priority queue
+
+Constructor overloading in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Constructor overloading in C++
+
+Default arguments in C++
+
+Dynamic binding in C++
+
+Dynamic memory allocation in C++
+
+Fast input and output in C++
+
+Hierarchical inheritance in C++
+
+Hybrid inheritance in C++
+
+Multiple Inheritance in C++
+
+C++ Bitwise XOR Operator
+
+Different Ways to Compare Strings in C++
+
+Reverse an Array in C++
+
+C++ date and time
+
+Copy elision in C++
+
+Array of sets in C++
+
+Smart pointers in C++
+
+Types of polymorphism in C++
+
+Implementing the sets without C++ STL containers",https://www.javatpoint.com/cpp-oops-concepts
+"Implementing the sets without C++ STL containers
+
+Scope Resolution Operator in C++
+
+Static Member Function in C++
+
+Const keyword in C++
+
+Memset in C++
+
+Type Casting in C++
+
+Binary Operator Overloading in C++
+
+Binary Search in C++
+
+Inheritance in C++ vs JAVA
+
+Static Keyword in C++ and JAVA
+
+Exception Handling in C++ and JAVA
+
+Foreach in C++ and JAVA
+
+C++ templates vs. Java generics
+
+Similarities and Differences in C++ and JAVA
+
+Default Virtual Behaviour in C++ and JAVA",https://www.javatpoint.com/cpp-oops-concepts
+"Default Virtual Behaviour in C++ and JAVA
+
+C++ hashing programme with chaining
+
+Largest subset whose all elements are Fibonacci numbers
+
+Opaque Pointer
+
+Pointers such as Dangling, Void, Null, and Wild
+
+When do we pass arguments by reference or pointer
+
+Find Member Function in Vector in C++
+
+Smart Pointer
+
+Currency Converter in C++
+
+Find max in Array Function C++
+
+Stopwatch in C++
+
+Student Data Management in C++
+
+Tic-Tac-Toe in C++
+
+Credit Card Validator in C++
+
+Hotel Management in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Hotel Management in C++
+
+Pacman Game in C++
+
+Billing Management System in C++
+
+4-Dimensional Array in C/C++
+
+accumulate() and partial_sum() in C++ STL : Numeric header
+
+Arrays of Vectors in C++ STL
+
+Catching Base and Derived Classes as Exceptions in C++ and Java
+
+Forward List in C++ Manipulating Functions
+
+Assertions in C/C++
+
+List back() function in C++ STL
+
+Type Inference in C++ (auto and decltype)
+
+Attributes in C++
+
+BigInt (Big Integers) in C++ with Examples",https://www.javatpoint.com/cpp-oops-concepts
+"BigInt (Big Integers) in C++ with Examples
+
+2D Vector in C++ with User Defined Size
+
+Declare a C/C++ Function Returning Pointer to Array of Integer Pointers
+
+Jump Statements in C++
+
+Maximum Number of Edges to be Added to a Tree so that it stays a Bipartite Graph
+
+Modulus of two Float or Double Numbers
+
+Top 10 C++ Project Ideas for Beginners
+
+C++ Class Member Functions
+
+C++ Program for Find k pairs with Smallest Sums in Two Arrays",https://www.javatpoint.com/cpp-oops-concepts
+"Check if bits in Range L to R of Two Numbers are Complement of Each other or Not
+
+University Management System in C++
+
+Advantage and Disadvantage Friend Function C++
+
+C++ Pre-processors
+
+Difference between Circular Queue and Priority Queue
+
+forward_list::cbefore_begin() in C++ STL
+
+Heap in C++ STL | make_heap(), push_heap(),pop_heap(), sort_heap(), is_heap, is_heap_until()
+
+How does 'void*' differ in C and C++
+
+Initialise an Array of objects with Parameterised Constructors in C++",https://www.javatpoint.com/cpp-oops-concepts
+"list::push_front() and list::push_back() in C++ STL
+
+Maximize the Cost of Repeated Removal of String P or its Reverse from the String S
+
+Canteen Management System in C++
+
+Declare a C/C++ Function Returning Pointer to Array of Integer Pointers
+
+Name Mangling and Extern C in C++
+
+Different Compilers for C++
+
+Diamond Problem in C++
+
+Function Prototype in C++
+
+Generic Programming in C++
+
+School Fee Enquiry System in C++
+
+Vector Pair in C++
+
+What is a Token in C++
+
+What is include iostream in C++",https://www.javatpoint.com/cpp-oops-concepts
+"What is include iostream in C++
+
+C++ 'Using' vs 'Typedef'
+
+Execute both if and else Statements in C/C++ Simultaneously
+
+How to Compile 32-bit Program on 64-bit GCC in C and C++
+
+How to Create and Use ''unique_ptr'' Instances
+
+Level Order Traversal in Spiral form
+
+Problem with scanf() when there is fgets()/gets()/scanf() After it
+
+BFS Code in C++
+
+Create Linked List In C++
+
+Function Overloading in C++
+
+std::minmax() and std::minmax_element() in C++ STL",https://www.javatpoint.com/cpp-oops-concepts
+"multimap::emplace_hint() Function in C++ STL
+
+Multimap find() in C++ STL
+
+Multiple Comparisons in a C++ Priority Queue
+
+Name Mangling and Extern C in C++ Concept
+
+Parameterised Constructor in C++
+
+Remove Duplicates from Sorted Array in C++
+
+Returning Multiple Values from a Function using Tuple and Pair in C++
+
+Scope Resolution Operator vs this Pointer
+
+Set a variable without using Arithmetic, Relational or Conditional Operator
+
+C++ Program To Sort An Array In Descending Order",https://www.javatpoint.com/cpp-oops-concepts
+"C++ Program To Sort An Array In Descending Order
+
+Timsort Implementation Using C++
+
+What Happens When We Exceed Valid Range of Built-in Data Types in C++
+
+Naked Function Calls in C++
+
+What is operator overloading in C++
+
+Simple Car Racing Game Code in C++
+
+SJF CPU Scheduling Program in C++
+
+Virtual functions and runtime polymorphism
+
+What is an abstract class in C++
+
+What is function overloading in C++
+
+Add in Vector C++ Language
+
+Default arguments and virtual function",https://www.javatpoint.com/cpp-oops-concepts
+"Default arguments and virtual function
+
+Private Inheritance in C++
+
+Socket Programming in C/C++
+
+Multithreading in C++ with Examples
+
+Static Object in C++
+
+What is runtime type information
+
+Operator Overloading in C++
+
+Add two Array in C++
+
+Calling Conventions in C++
+
+HASHSET IN C++
+
+How many Children does a Binary Tree have
+
+How to Create and use CComPtr and CComQIPtr Instances
+
+Naming Conventions in C++
+
+DYNAMIC ARRAY
+
+STRCMP() IN C++
+
+Add two Numbers using Class in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Add two Numbers using Class in C++
+
+Adding of Two Numbers in C++
+
+Adding Two Arrays in C++
+
+Adding Two Objects in C++
+
+Add two Numbers using Function in C++
+
+C++ class to prevent object copies
+
+Raw string literal in C++
+
+Add Two no in C++ program
+
+Binary Decision Tree
+
+Boolean to String in C++
+
+Stoi function in C++
+
+ToLOWER In C++
+
+UNORDERED_MAP IN C++
+
+C++ Books for Beginners
+
+Activity Selection Problem in C++
+
+Activity Selection Program in C++
+
+Actual Argument and Formal Argument in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Actual Argument and Formal Argument in C++
+
+Actual Parameter and Formal Parameter in C++
+
+Adding Two Strings in C++
+
+Adding Vectors in C++
+
+How To Convert a Qstring to Hexadecimal in C++
+
+PAIR IN C++
+
+C++ Program to Count Positive and Negative Numbers in an Array
+
+Department Store Management System (DSMS) using C+
+
+Print all Substrings of a String that has equal number of vowels and consonants in C/C++
+
+Accumulator in C++
+
+Acess Specifiers in C++
+
+Add Two Matrix in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Acess Specifiers in C++
+
+Add Two Matrix in C++
+
+Add two Numbers in C++ program
+
+Add two Numbers Represented by Linked Lists in C++
+
+Associative Containers in C++
+
+C++ Books for Beginners
+
+Dynamic Initialization of Objects in C++
+
+Array sum in c++ stl
+
+The distinction between the C++ copy constructor and assignment operator
+
+Boost::split in c++ library
+
+Difference between Declaration of User Defined Function Inside main() and Outside of main()
+
+Isprint() in C++
+
+Std partition point in c++",https://www.javatpoint.com/cpp-oops-concepts
+"Isprint() in C++
+
+Std partition point in c++
+
+Opening and Closing a File in C in C++ Pdf
+
+Overriding Member Function in C++
+
+Password Validation in C++
+
+PID Controller C++
+
+Best C++ Online Course
+
+Unordered Set in C++
+
+Convert Camel Case String in Snake Case in C++
+
+C++ Program to Draw Histogram
+
+C++ DSA
+
+C++ Flow Control
+
+C++ program to group anagrams in the given stream of strings
+
+cstdlib in C++
+
+Everything You Need to Know About Conio.h Library Functions in C/C++",https://www.javatpoint.com/cpp-oops-concepts
+"Increment and Decrement Operators in C++
+
+How to generate random number between 1 to 10 in C++
+
+How to Manipulate cout Object using C++ IOS Library
+
+Sliding Window Algorithm in C++
+
+What is Bottom-up Approach in C++
+
+What is Top-Down Approach in C++
+
+Bitmask in C++
+
+Ordered Map C++
+
+Characteristics of Destructor in C++
+
+Factory Design Pattern C++
+
+REPL C++
+
+AVL Tree in C++
+
+Des in C++
+
+Boost Library in C++
+
+C++ 11 Lambda Expression
+
+Concurrency in C++
+
+C++ GUI
+
+Static Library Linking in C++",https://www.javatpoint.com/cpp-oops-concepts
+"C++ GUI
+
+Static Library Linking in C++
+
+Constexpr in C++
+
+Difference between break and continue in C++
+
+C++ Boolean
+
+Encapsulation in C++
+
+OpenGL C++
+
+Sequence Containers in C++
+
+Difference between C++ and rust
+
+Falcon C++
+
+Popcount C++
+
+Boost C++
+
+C++ Function Object
+
+Boost Library in C++
+
+C++ Concurrency
+
+What are Macros in C++
+
+Design Pattern in C++
+
+C++ Factory Pattern
+
+Functor in C++
+
+C++ GUI
+
+How to Create a New Thread in C++
+
+C++ Static Member
+
+C++ Static Variable",https://www.javatpoint.com/cpp-oops-concepts
+"C++ Static Member
+
+C++ Static Variable
+
+C++ Template Specialization
+
+Difference between New and Delete operator in C++
+
+Differences between Vector and List in C++
+
+Dynamic Cast in C++
+
+Shell sort in C++
+
+Jagged Array in C++
+
+What is containership in C++
+
+Cerr in C++
+
+Make_shared in C++
+
+Rethrowing an Exception in C++
+
+Trigraphs in C++
+
+Cin.ignore() function in C++
+
+Difference between function overloading and function overriding in C++
+
+Typeid operator in C++
+
+String_view in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Typeid operator in C++
+
+String_view in C++
+
+Anonymous objects in C++
+
+Cerr in C++
+
+Make_shared in C++
+
+Rethrowing an Exception in C++
+
+Trigraphs in C++
+
+Cin.ignore() function in C++
+
+Difference between function overloading and function overriding in C++
+
+Typeid operator in C++
+
+String_view in C++
+
+Anonymous objects in C++
+
+abdul bari c++
+
+Conversion Constructor in C++
+
+Find Leap Year in C++
+
+How to Access Vector Elements in C++
+
+Static cast in C++
+
+Symbol Table in C++
+
+tellp() function in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Symbol Table in C++
+
+tellp() function in C++
+
+Matrix addition in C++
+
+Visibility Modes in C++
+
+C++ Initializer List
+
+Diffie-Hellmam Algorithm in C++
+
+Wide Character in C++
+
+Bitwise Operators in C++
+
+How Many Indicators are Available in C++
+
+iota() in C++
+
+Tellg() Function in C++
+
+Coroutines in C++
+
+Isdigit() function in C++
+
+isupper() function in C++
+
+npos in C++
+
+seekg() function in C++
+
+Trie Data Structure in C++
+
+Difference between C++ and JavaScript
+
+CStudio in C++
+
+Dosbox C++",https://www.javatpoint.com/cpp-oops-concepts
+"CStudio in C++
+
+Dosbox C++
+
+DOSBox Turbo C++
+
+Object Creation in C++
+
+Bisection method in C++
+
+Cin.get() in C++
+
+Edmonds Karp Algorithm in C++
+
+Include guards in C++
+
+Weak Pointer in C++
+
+Apriori Algorithm Implementation in C++
+
+Babylonian Method to find Square Root in C++
+
+Concentric Rectangular Pattern in C++
+
+Inbuilt functions in C++
+
+Pointer to an object in C++
+
+Private Destructor in C++
+
+Unary Operator Overloading in C++
+
+Unique_ptr in C++
+
+Call By Value in C++
+
+Climits in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Call By Value in C++
+
+Climits in C++
+
+Command line arguments in C++
+
+Conversion operator in C++
+
+How to create a game engine in C++
+
+Static Polymorphism in C++
+
+Character Set in C++
+
+Output operator in C++
+
+Object Pointer in C++
+
+Odd or Even Number Programs in C++
+
+Operator Overloading in C++ Using Friend Function
+
+Ostream in C++
+
+Kadane's Algorithm in C++
+
+Kruskal's Algorithm in C++
+
+Quick Sort Algorithm in C++
+
+Abstract factory design pattern in C++
+
+Access Class Members in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Access Class Members in C++
+
+Adjacency List in C++
+
+Make_pair in C++
+
+Multiple Catch Statements in C++
+
+Thread pool in C++
+
+KMP Algorithm in C++
+
+Abstract data types in C++
+
+Bubble Sort in C++
+
+DDA line drawing algorithm in C++
+
+Setf() in C++
+
+Sieve of eratosthnes in C++
+
+Banker's Algorithm in C++
+
+Bellman-Ford Algorithm in C++
+
+Bubble Sort Algorithm in C++
+
+Quick Sort Implementation in C++
+
+Sorting Algorithms in C++
+
+Calloc in C++
+
+Multiplication Table in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Calloc in C++
+
+Multiplication Table in C++
+
+Print the corner elements and their sum in a 2-D matrix in C++
+
+Special Operators in C++
+
+Prim's Algorithm in C++
+
+C++ Program to display factors of a number
+
+Call by the reference in C++
+
+Fstream in C++
+
+How to Create a Singleton Class in C++
+
+Knapsack Problem in C++
+
+Merge Sort Pseudocode C++
+
+Objective C vs C++
+
+Pointer Hackerrank solution in C++
+
+Reinterpret_cast in c++
+
+Tree Implementation in C++
+
+Custom sort string in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Custom sort string in C++
+
+Stack functions in C++
+
+Thread Synchronization in C++
+
+Leaders in an array in C++
+
+How to implement Min Heap in C++
+
+C++ program to divide a string into N equal parts
+
+Celebrity Problem in C++
+
+Best C++ game engine for beginners
+
+Maximum circular subarray sum in C++
+
+Print unique rows in a given Binary matrix in C++
+
+Mutable keywords in C++
+
+Move all zeroes to end of array in C++
+
+Menu-driven program in C++
+
+Reversal algorithm for Array rotation in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Reversal algorithm for Array rotation in C++
+
+Sort elements by frequency in C++
+
+Stable Marriage Problem in C++
+
+Boyer Moore Algorithm for Pattern Searching in C++
+
+C++ program for run Length Encoding and Decoding
+
+C++ Program to find if a character is a Vowel or Consonant
+
+C++ Program to find the number of Islands using DFS
+
+Clamp in C++
+
+Diameter of binary tree in C++
+
+Foldable binary tree in C++
+
+Lexicographic rank of a String in C++
+
+Merge overlapping Intervals in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Merge overlapping Intervals in C++
+
+Override keyword in C++
+
+Search in a row-wise and column-wise sorted matrix in C++
+
+Set insertion and deletion in C++
+
+std::thread detach in C++
+
+Tug of war in C++
+
+Merge Sort Algorithm in C++
+
+Variadic Templates in C++
+
+Tree isomorphism problem in C++
+
+Thread Safe Queue in C++
+
+Stock span problem in C++
+
+std::tie in C++
+
+Std::back_inserter in C++
+
+Std::allocator() in C++
+
+QuickSort on Singly Linked List in C++
+
+Pancake sorting in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Pancake sorting in C++
+
+Nested Namespace in C++
+
+Largest Rectangular Area in Histogram using Segment Tree in C++
+
+C++ async await
+
+C++ Program for Counting Inversions in an Array
+
+Hamilton Cycle Detection in C++
+
+Insertion in Splay Tree in C++
+
+kruskal's algorithm in C++
+
+Maximum product subarray in C++
+
+Print all interleavings of given two strings in C++
+
+Aho-Corasick Algorithm for Pattern Searching in C++
+
+An In-Place Algorithm for String Transformation in C++",https://www.javatpoint.com/cpp-oops-concepts
+"C++ program for product array puzzle
+
+C++ Program to Demonstrate Usage of bind1st Binder
+
+C++ Program to Find Determinant of a Matrix
+
+Call by address in C++
+
+Chrono in C++
+
+Count Smaller Elements on Right Side in C++
+
+Equilibrium index of an array in C++
+
+flock() function in C++
+
+Power set algorithm in C++
+
+Stack smashing detected in C++
+
+The Great Tree List Recursion Problem in C++
+
+Timer implementation in C++
+
+Tower of Hanoi Algorithm in C++
+
+Linear Search Algorithm in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Linear Search Algorithm in C++
+
+The Fastest Sorting Algorithm in C++
+
+Boundary traversal of binary tree in C++
+
+Box Stacking Problem in C++
+
+C++ flat_map
+
+C++ Program to Find Factorial of a Number using Iteration
+
+C++ Program To Find Normal and Trace of a Matrix
+
+C++ Program to Represent Linear Equations in Matrix Form
+
+C++ Program to Swap Rows of Matrix
+
+C++ Program to Toggle Cases in a String
+
+cuckoo hashing in C++
+
+Draw a circle without floating point arithmetic in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Find a sorted subsequence of size 3 in linear time in C++
+
+Finding a Peak Element in an Array in C++
+
+forward_list::splice_after() in C++
+
+Global constant in C++
+
+ios::rdstate() Function in C++
+
+K-Dimensional tree in C++
+
+One time pad algorithm in C++
+
+Print All Permutations in Sorted (Lexicographic) Order in C++
+
+std::stod, std::stof, std::stold in C++
+
+std::stof in C++
+
+std::stol function in C++
+
+std::stoll() Function in C++
+
+String::npos in C++
+
+Insertion Sort
+
+Needleman-Wunsch Algorithm",https://www.javatpoint.com/cpp-oops-concepts
+"Insertion Sort
+
+Needleman-Wunsch Algorithm
+
+Binary GCD Algorithm in C++
+
+C++ Program to Check if a Matrix is Orthogonal or Not
+
+C++ Program to Find Fibonacci Numbers using Matrix Exponentiation
+
+C++ Program to perform message encoding using matrix multiplication
+
+C++ Unordered_Mutimap
+
+Deque::front() and deque::back() in C++
+
+Difference between std::set vs std::vector in C++
+
+forward_list merge() in C++
+
+forward_list::unique() in C++
+
+How to convert std::string to lpcwstr in C++",https://www.javatpoint.com/cpp-oops-concepts
+"How to convert std::string to lpcwstr in C++
+
+How to get the value of Pi in C++
+
+Maximum size square sub-matrix with all 1s in C++
+
+multimap get_allocator() function in C++
+
+Neural network in C++
+
+Rotate bits of a number in C++
+
+Sparse array in C++
+
+Std::allocator_arg in C++
+
+std::string::append vs std::string::push_back() vs Operator += in C++
+
+std::Chrono::Time_point in C++
+
+Std::nullopt in C++
+
+Strspn() Function in C++
+
+unordered_multimap rehash() function in C++",https://www.javatpoint.com/cpp-oops-concepts
+"unordered_multimap rehash() function in C++
+
+Why (non-const) global variables are evil in C++
+
+'asm' Declaration in C++
+
+Block Swap Algorithm for Array Rotation in C++
+
+C++ thread_local
+
+DFA-based division in C++
+
+Difference between std::quick_exit and std::abort in C++
+
+Flattening a Linked List in C++
+
+forward_list::reverse() in C++
+
+ios::setstate() function in C++
+
+Is_open Function in C++
+
+mbsrtowcs() Function in C/C++
+
+std::array::crbegin in C++
+
+wmemmove() function in C++",https://www.javatpoint.com/cpp-oops-concepts
+"wmemmove() function in C++
+
+AES Algorithm in C++
+
+C++ Dictionaries
+
+C++ Program for Double to String Conversion
+
+C++ Program to Perform Mathematical Operation on Valarray Elements
+
+Create Bingo Game Using C++
+
+Difference between Friend Function and Virtual Function in C++
+
+C++ - Difference between Functors and Functions
+
+feholdexcept() in C++
+
+iswgraph() in C/C++
+
+out of range exception C++
+
+strcoll() in C++
+
+beta(), betaf() and betal() functions in C++ STL",https://www.javatpoint.com/cpp-oops-concepts
+"beta(), betaf() and betal() functions in C++ STL
+
+cshift() function for valarray in C++
+
+Difference Between deque::assign and deque::empty in C++
+
+Difference between header files stdio.h and stdlib.h
+
+Difference between std::set::lower_bound and std::lower_bound in C++
+
+Difference between std::swap and std::vector::swap
+
+How to Square a Number in C++
+
+is_polymorphic template in C++
+
+is_trivial in C++
+
+iswblank() function in C/C++
+
+match_results empty() in C++ STL",https://www.javatpoint.com/cpp-oops-concepts
+"match_results empty() in C++ STL
+
+match_results prefix() and suffix() in C++
+
+multimap::count() in C++
+
+ratio_less_equal() function in C++
+
+smatch max_size() function in C++ STL
+
+sqrtl function in C++
+
+std::unary_negate() in C++
+
+std::numeric_limits::max() and std::numeric_limits::min() in C++
+
+std::string::crbegin() and std::string::crend() in C++
+
+towctrans() function in C++
+
+Uniform Initialization in C++
+
+unordered_multimap max_load_factor() function in C++
+
+Use of explicit keyword in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Use of explicit keyword in C++
+
+wcrtomb() function in C/C++
+
+wcstoimax() and wcstoumax() function in C/C++
+
+3-way comparison operator (Space Ship Operator) in C++ 20
+
+Algorithmic Trading with C++
+
+Alternating split of a given Singly Linked List in C++
+
+Applications of C++
+
+auto_ptr in C++
+
+Benefits of OOPs
+
+C++ Program For Octal To Decimal Conversion
+
+Difference between array::fill() and array::swap() in C++
+
+Expected Unqualified Id Error in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Expected Unqualified Id Error in C++
+
+fesetround() and fegetround() in C++ and their application
+
+Inbuilt function for calculating LCM in C++
+
+Iswspace() Function in C/C++
+
+Minimum Spanning Tree using Kruskal's Algorithm in C++
+
+Negate function in C++ STL
+
+Nested Try Blocks in C++
+
+Rint (), Rintf (), and Rintl () functions in C++
+
+Sequence and Associative Containers in C++
+
+std::get_temporary_buffer in C++
+
+std::integer_sequence in C++ 14
+
+Std::regex_iterator function in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Std::regex_iterator function in C++
+
+Strxfrm() Function in C/C++
+
+vswprintf() function in C/C++
+
+Wcscoll() Function in C++
+
+wcsncpy() function in C++
+
+wctob() function in C++
+
+Array Type Manipulation in C++
+
+Associative arrays in C++
+
+atexit() function in C++
+
+btowc() function in C/C++
+
+C++ program for Sentinel Linear Search
+
+C++ Program to Perform LU Decomposition of Any Matrix
+
+Calculating the area of an ellipse in C++
+
+Composite Design Pattern in C++
+
+conj() function in C++",https://www.javatpoint.com/cpp-oops-concepts
+"conj() function in C++
+
+Difference between Tokens, Identifiers, and Keywords in C++
+
+Differences between the inline function and the normal function in C++
+
+Edmonds Karp Algorithm in C++
+
+Fallthrough in C++
+
+fegetexceptflag() function in C/C++
+
+forward_list::emplace_front() in C++
+
+Hiding of all overloading methods with the same name in the base class in C++
+
+How does Duff's Device work in C++
+
+Input and output Redirection in C++
+
+Ios bad() function in C++
+
+Iterator Invalidation in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Iterator Invalidation in C++
+
+mbrlen() function in C/C++
+
+mbrtoc32() in C/C++
+
+ratio_greater() function in C++
+
+Rules for Operator overloading in C++
+
+std::adjacent_difference in C++
+
+std::future in C++
+
+strpbrk() Function in C++
+
+Babylonian Square Root Algorithm in C++
+
+The OFFSETOF() macro in C++
+
+Top 10 most used inbuilt C++ functions for Competitive Programming
+
+Trailing Return Type in C++ 11
+
+C++ Program for Iterative Quick Sort
+
+Exception::what() in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Exception::what() in C++
+
+C++ Program to Demonstrate use of Formatting Flags on Float Output
+
+C++ program to handle the checked exceptions
+
+Convert Scientific Notation to Decimal form in C++
+
+Difference between C++ and Ruby
+
+is_pod function in C++
+
+Manacher's Algorithm in c++
+
+Maximizing Vessels with Unique Element Sizes in C++
+
+Minimum Spanning Tree using Kruskal's Algorithm in C++
+
+std::is_trivially_assignable in C++
+
+std::tuple_element() and std::tuple_size() in C++",https://www.javatpoint.com/cpp-oops-concepts
+"stop_token Header in C++20
+
+StringStream in C++ for Decimal to Hexadecimal and Hexadecimal to Decimal
+
+strtod() function in C/C++
+
+ungetc() function in C++
+
+Unordered_multimap bucket_size() function in C++
+
+unordered_multimap key_eq function in C++
+
+Unsigned int in C++
+
+Variable Shadowing in C++
+
+Difference between cerr and clog in C++
+
+How to Assign Infinity to a Number in C++
+
+Long Data Type C++
+
+mbsinit() Function in C/C++
+
+multimap key_comp() in C++
+
+Observer_ptr in C++",https://www.javatpoint.com/cpp-oops-concepts
+"multimap key_comp() in C++
+
+Observer_ptr in C++
+
+Queue using stack in C++
+
+std::subtract_with_carry_engine in C++
+
+unordered_multiset emplace_hint() function in C++ STL
+
+Why C++ is Best for Competitive Programming
+
+boost::algorithm::one_of_equal() in C++ library
+
+C++ Program to Implement Park-Miller Random Number Generation Algorithm
+
+Character Arithmetic in C and C++
+
+Converting ternary expression to Binary Tree using Stack in C++
+
+Difference between Forward List and List in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Difference between Forward List and List in C++
+
+Difference between list::emplace_front() and list::emplace_back() in C++
+
+Difference between std:wstring and std:string in C++
+
+Find the original number by flipping K unique bits in C++
+
+fma() Function in C++
+
+is_rvalue_reference Template in C++
+
+Nesbitt's Inequality in C++
+
+The Rule of Five in C++
+
+unordered_multimap load_factor() function in C++
+
+C++ Program For Selecting A Random Node From A Singly Linked List",https://www.javatpoint.com/cpp-oops-concepts
+"Comparison between Heap and Tree in C++
+
+Detect and Remove Loop in a Linked List in C++
+
+Difference between C++ and Go Languages
+
+Difference between std::set::upper_bound and std::upper_bound in C++
+
+Different Ways to Generate Permutations of an Array in C++
+
+How to Split a String by Multiple Delimiters in C++
+
+How to take space-separated input in C++
+
+static_assert in C++
+
+Absolute difference between set and unset bit count in N in C++
+
+Balls Rolling in the Maze in C++
+
+Basic C++ Commands",https://www.javatpoint.com/cpp-oops-concepts
+"Basic C++ Commands
+
+Binary Heap in C++
+
+C++ Compiler Support
+
+C++ Program to calculate the Bitonicity of an Array
+
+Clone a Linked List with next and Random Pointer in C++
+
+Count of substrings with the frequency of at most one character as Odd in C++
+
+Difference between cout and std::cout in C++
+
+How to Validate Image File Extension using Regular Expression in C++
+
+Queue of Pairs in C++ STL with Examples
+
+Search by value in a Map in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Search by value in a Map in C++
+
+Determine winner of game by converting two consecutive 1s to 0s in C++
+
+Find the winner by incrementing co-ordinates till Euclidean distance <= D in C++
+
+How to Access a Local Variable from a Different Function in C++
+
+Karatsuba algorithm for fast multiplication using the Divide and Conquer algorithm in C++
+
+Longest Common Subsequence with no Repeating Character in C++
+
+Minimum Increments to reach the given MEX in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Minimum Increments to reach the given MEX in C++
+
+Minimum number of key presses to type the given string in C++
+
+Queries for Sum of Bitwise AND of all Subarrays in a Range in C++
+
+Basic_istream::peek() method in C++
+
+C++ Program to Implement Fermat's Little Theorem
+
+Cryptarithmetic Puzzle in C++
+
+Customizing termination behavior for uncaught exceptions in C++
+
+Difference between fill() and fill_n() functions in C++ STL
+
+Dinic's algorithm in C++
+
+Fitting Shelves Problem in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Fitting Shelves Problem in C++
+
+How to Set, Clear, and Toggle a Single Bit in C++
+
+Lookup Tables in C++
+
+Numbers of Operations to reduce Kth element to 0 in C++
+
+Valloc() function in C++
+
+bernoulli_distribution() function in C++
+
+Different ways to print elements of vector in C++
+
+Elo Rating Algorithm in C++
+
+Execution Policy of STL Algorithms in Modern C++
+
+Feclearexcept in C++
+
+Find the maximum width of a binary tree with null values in C++",https://www.javatpoint.com/cpp-oops-concepts
+"Find the n-th Element from Stern's Diatomic Series in C++
+
+How to Create a Stack of User-Defined Data Type in C++
+
+Munmap_chunk invalid pointer in C++
+
+Std::mt19937 class in C++
+
+Stein's Algorithm to find GCD in C++
+
+Write a C++ program to implement the Bloom filter data structure
+
+Xor_eq in C++
+
+C++ MCQ
+
+C++ MCQ Part 2
+
+Interview Question
+
+C++ Bitset
+
+bitset all() function
+
+bitset any() function
+
+bitset count() function
+
+bitset flip() function
+
+bitset none() function
+
+bitset operator[]",https://www.javatpoint.com/cpp-oops-concepts
+"bitset none() function
+
+bitset operator[]
+
+bitset reset() function
+
+bitset set() function
+
+bitset size() function
+
+bitset test() function
+
+bitset to_string() function
+
+bitset to_ullong() function
+
+bitset to_ulong() function
+
+C++ Deque
+
+Deque assign() function
+
+Deque emplace() function
+
+Deque emplace_back() function
+
+Deque emplace_front() function
+
+Deque insert() function
+
+Deque push_back() function
+
+Deque push_front() function
+
+Deque pop_back() function
+
+Deque pop_front() function",https://www.javatpoint.com/cpp-oops-concepts
+"Deque pop_front() function
+
+Deque swap() function
+
+Deque clear() function
+
+Deque empty() function
+
+Deque erase() function
+
+Deque max_size() function
+
+Deque resize() function
+
+Deque shrink_to_fit() function
+
+Deque size() function
+
+Deque at() function
+
+Deque operator[]() function
+
+Deque operator=() function
+
+Deque back() function
+
+Deque begin() function
+
+Deque cbegin() function
+
+Deque end() function
+
+Deque cend() function
+
+Deque rbegin() function
+
+Deque crbegin() function
+
+Deque rend() function",https://www.javatpoint.com/cpp-oops-concepts
+"Deque crbegin() function
+
+Deque rend() function
+
+Deque crend() function
+
+C++ List
+
+List insert() function
+
+List push_back() function
+
+List push_front() function
+
+List pop_back() function
+
+List pop_front() function
+
+List empty() function
+
+List size() function
+
+List max_size() function
+
+List front() function
+
+List back() function
+
+List swap() function
+
+List reverse() function
+
+List sort() function
+
+List merge() function
+
+List splice() function
+
+List unique() function
+
+List resize() function",https://www.javatpoint.com/cpp-oops-concepts
+"List unique() function
+
+List resize() function
+
+List assign() function
+
+List emplace() function
+
+List emplace_back() function
+
+List emplace_front() function
+
+C++ Map
+
+map at() function
+
+map begin() function
+
+map cbegin() function
+
+map cend() function
+
+map crbegin() function
+
+map crend() function
+
+map empty() function
+
+map end() function
+
+map max_size() function
+
+map operator[]
+
+map rbegin() function
+
+map rend() function
+
+map size() function
+
+map clear() function
+
+map emplace() function",https://www.javatpoint.com/cpp-oops-concepts
+"map clear() function
+
+map emplace() function
+
+map emplace_hint() function
+
+map erase() function
+
+map find() function
+
+map insert() function
+
+map operator=()
+
+map swap() function
+
+math cos() function
+
+math sin() function
+
+math tan() function
+
+math acos() function
+
+math asin() function
+
+math atan() function
+
+math atan2() function
+
+math cosh() function
+
+math sinh() function
+
+math tanh() function
+
+math acosh() function
+
+math asinh() function
+
+math atanh() function
+
+math exp() function",https://www.javatpoint.com/cpp-oops-concepts
+"math atanh() function
+
+math exp() function
+
+math frexp() function
+
+math Idexp() function
+
+math log() function
+
+math log10() function
+
+math modf() function
+
+math exp2() function
+
+math expm1() function
+
+math log1p() function
+
+math log2() function
+
+math logb() function
+
+math scalbn() function
+
+math scalbln() function
+
+math ilogb() function
+
+math copysign() function
+
+math nextafter() function
+
+math nexttoward() function
+
+math fdim() function
+
+math fmax() function
+
+math fmin() function",https://www.javatpoint.com/cpp-oops-concepts
+"math fmax() function
+
+math fmin() function
+
+math pow() function
+
+math sqrt() function
+
+math cbrt() function
+
+math hypot() function
+
+math ceil() function
+
+math floor() function
+
+math round() function
+
+math lround() function
+
+math llround() function
+
+math fmod() function
+
+math trunc() function
+
+math rint() function
+
+math lrint() function
+
+math llrint() function
+
+math nearbyint() function
+
+math remainder() function
+
+math remquo() function
+
+math fabs() function
+
+math abs() function",https://www.javatpoint.com/cpp-oops-concepts
+"math fabs() function
+
+math abs() function
+
+math fma() function
+
+math fpclassify() function
+
+math isfinite() function
+
+math isinf() function
+
+math isnan() function
+
+math isnormal() function
+
+math signbit() function
+
+math isgreater() function
+
+math isgreaterequal() function
+
+math less() function
+
+math islessequal() function
+
+math islessgreater() function
+
+math isunordered() function
+
+math erf() function
+
+math erfc() function
+
+math tgamma() function
+
+math lgamma() function
+
+C++ priority_queue",https://www.javatpoint.com/cpp-oops-concepts
+"math lgamma() function
+
+C++ priority_queue
+
+priority_queue emplace() function
+
+priority_queue empty() function
+
+priority_queue pop() function
+
+priority_queue push() function
+
+priority_queue size() function
+
+priority_queue swap() function
+
+priority_queue top() function
+
+C++ Stack
+
+stack emplace() function
+
+stack empty() function
+
+stack pop() function
+
+stack push() function
+
+stack size() function
+
+stack top() function
+
+C++ Queue
+
+queue back() function
+
+queue emplace() function",https://www.javatpoint.com/cpp-oops-concepts
+"queue back() function
+
+queue emplace() function
+
+queue empty() function
+
+queue front() function
+
+queue pop() function
+
+queue push() function
+
+queue size() function
+
+C++ multiset
+
+multiset constructor
+
+multiset destructor
+
+multiset begin() function
+
+multiset end() function
+
+multiset operator=
+
+multiset rbegin() function
+
+multiset rend() function
+
+multiset cbegin() function
+
+multiset cend() function
+
+multiset max_size() function
+
+multiset size() function
+
+multiset crbegin() function",https://www.javatpoint.com/cpp-oops-concepts
+"multiset crbegin() function
+
+multiset crend() function
+
+multiset empty() function
+
+multiset insert() function
+
+multiset clear() function
+
+multiset emplace() function
+
+multiset erase() function
+
+multiset swap() function
+
+multiset emplace_hint() function
+
+multiset find() function
+
+multiset key_comp() function
+
+multiset value_comp() function
+
+multiset count() function
+
+multiset equal_range() function
+
+multiset lower_bound() function
+
+multiset upper_bound() function",https://www.javatpoint.com/cpp-oops-concepts
+"multiset upper_bound() function
+
+multiset get_allocator() function
+
+multiset operator==
+
+multiset operator!=
+
+multiset operator<
+
+multiset operator<=
+
+multiset operator>
+
+multiset operator>=
+
+multiset swap() function
+
+C++ Multimap
+
+multimap crbegin() function
+
+multimap crend() function
+
+multimap begin() function
+
+multimap cbegin() function
+
+multimap cend() function
+
+multimap end() function
+
+multimap rbegin() function
+
+multimap rend() function
+
+multimap clear() function",https://www.javatpoint.com/cpp-oops-concepts
+"multimap clear() function
+
+multimap emplace() function
+
+multimap empty() function
+
+multimap erase() function
+
+multimap insert() function
+
+multimap swap() function
+
+multimap equal_range() function
+
+multimap operator==
+
+multimap operator!=
+
+multimap operator<
+
+multimap operator<=
+
+multimap operator>
+
+multimap operator>=
+
+multimap swap() function
+
+C++ Set
+
+set constructor
+
+set destructor
+
+set operator=() function
+
+set begin() function
+
+set cbegin() function
+
+set end() function",https://www.javatpoint.com/cpp-oops-concepts
+"set cbegin() function
+
+set end() function
+
+set cend() function
+
+set rbegin() function
+
+set rend() function
+
+set crbegin() function
+
+set crend() function
+
+set empty() function
+
+set Size() function
+
+set max_size() function
+
+set insert() function
+
+set erase() function
+
+set Swap() function
+
+set clear() function
+
+set emplace() function
+
+set emplace_hint() function
+
+set key_comp() function
+
+set value_comp() function
+
+set find() function
+
+set count() function
+
+set lower_bound() function",https://www.javatpoint.com/cpp-oops-concepts
+"set count() function
+
+set lower_bound() function
+
+set upper_bound() function
+
+set equal_range() function
+
+set get_allocator() function
+
+set operator==
+
+set operator!=
+
+set operator<
+
+set operator<=
+
+set operator>
+
+set operator>=
+
+set swap() function
+
+string compare() function
+
+string length() function
+
+string swap() function
+
+string size() function
+
+string resize() function
+
+string replace() function
+
+string append() function
+
+string at() function
+
+string find() function",https://www.javatpoint.com/cpp-oops-concepts
+"string at() function
+
+string find() function
+
+string find_first_of() function
+
+string find_first_not_of() function
+
+string find_last_of() function
+
+string find_last_not_of() function
+
+string insert() function
+
+string max_size() function
+
+string push_back() function
+
+string pop_back() function
+
+sstring assign() function
+
+string copy() function
+
+string back() function
+
+string begin() function
+
+string capacity() function
+
+string cbegin() function
+
+string cend() function
+
+string clear() function",https://www.javatpoint.com/cpp-oops-concepts
+"string cend() function
+
+string clear() function
+
+string crbegin() function
+
+string data() function
+
+string empty() function
+
+string erase() function
+
+string front() function
+
+string operator+=()
+
+string operator=()
+
+string operator[]()
+
+string rfind() function
+
+string end() function
+
+string rend() function
+
+string shrink_to_fit() function
+
+string c_str() function
+
+string crend() function
+
+string rbegin() function
+
+string reserve() function
+
+C++ Vector
+
+Vector at() function",https://www.javatpoint.com/cpp-oops-concepts
+"C++ Vector
+
+Vector at() function
+
+Vector back() function
+
+Vector front() function
+
+Vector swap() function
+
+Vector push_back() function
+
+Vector pop_back() function
+
+Vector empty() function
+
+Vector insert() function
+
+Vector erase() function
+
+Vector resize() function
+
+Vector clear() function
+
+Vector size() function
+
+Vector capacity() function
+
+Vector assign() function
+
+Vector operator=() function
+
+Vector operator[]() function
+
+Vector end() function
+
+Vector emplace() function",https://www.javatpoint.com/cpp-oops-concepts
+"Vector end() function
+
+Vector emplace() function
+
+Vector emplace_back() function
+
+Vector rend() function
+
+Vector rbegin() function
+
+Vector begin() function
+
+Vector max_size() function
+
+Vector cend() function
+
+Vector cbegin() function
+
+Vector crbegin() function
+
+Vector crend() function
+
+Vector data() function
+
+Vector shrink_to_fit() function",https://www.javatpoint.com/cpp-oops-concepts
+"next → ← prev C++ OOPs Concepts The major purpose of C++ programming is to introduce the concept of object orientation to the C programming language. Object Oriented Programming is a paradigm that provides many concepts such as inheritance, data binding, polymorphism etc. The programming paradigm where everything is represented as an object is known as truly object-oriented programming language. Smalltalk is considered as the first truly object-oriented programming language. OOPs (Object",https://www.javatpoint.com/cpp-oops-concepts
+"programming language. OOPs (Object Oriented Programming System) Object means a real word entity such as pen, chair, table etc. Object-Oriented Programming is a methodology or paradigm to design a program using classes and objects. It simplifies the software development and maintenance by providing some concepts: Object Class Inheritance Polymorphism Abstraction Encapsulation Object Any entity that has state and behavior is known as an object. For example: chair, pen, table, keyboard, bike etc.",https://www.javatpoint.com/cpp-oops-concepts
+"example: chair, pen, table, keyboard, bike etc. It can be physical and logical. Class Collection of objects is called class. It is a logical entity. A Class in C++ is the foundational element that leads to Object-Oriented programming. A class instance must be created in order to access and use the user-defined data type's data members and member functions. An object's class acts as its blueprint. Take the class of cars as an example. Even if different names and brands may be used for different",https://www.javatpoint.com/cpp-oops-concepts
+"names and brands may be used for different cars, all of them will have some characteristics in common, such as four wheels, a speed limit, a range of miles, etc. In this case, the class of car is represented by the wheels, the speed limitations, and the mileage. Inheritance When one object acquires all the properties and behaviours of parent object i.e. known as inheritance. It provides code reusability. It is used to achieve runtime polymorphism. Sub class - Subclass or Derived Class refers to",https://www.javatpoint.com/cpp-oops-concepts
+"Sub class - Subclass or Derived Class refers to a class that receives properties from another class. Super class - The term ""Base Class"" or ""Super Class"" refers to the class from which a subclass inherits its properties. Reusability - As a result, when we wish to create a new class, but an existing class already contains some of the code we need, we can generate our new class from the old class thanks to inheritance. This allows us to utilize the fields and methods of the pre-existing class.",https://www.javatpoint.com/cpp-oops-concepts
+"the fields and methods of the pre-existing class. Polymorphism When one task is performed by different ways i.e. known as polymorphism. For example: to convince the customer differently, to draw something e.g. shape or rectangle etc. Different situations may cause an operation to behave differently. The type of data utilized in the operation determines the behavior. Abstraction Hiding internal details and showing functionality is known as abstraction. Data abstraction is the process of exposing",https://www.javatpoint.com/cpp-oops-concepts
+"Data abstraction is the process of exposing to the outside world only the information that is absolutely necessary while concealing implementation or background information.For example: phone call, we don't know the internal processing. In C++, we use abstract class and interface to achieve abstraction. Encapsulation Binding (or wrapping) code and data together into a single unit is known as encapsulation. For example: capsule, it is wrapped with different medicines. Encapsulation is typically",https://www.javatpoint.com/cpp-oops-concepts
+"different medicines. Encapsulation is typically understood as the grouping of related pieces of information and data into a single entity. Encapsulation is the process of tying together data and the functions that work with it in object-oriented programming. Take a look at a practical illustration of encapsulation: at a company, there are various divisions, including the sales division, the finance division, and the accounts division. All financial transactions are handled by the finance",https://www.javatpoint.com/cpp-oops-concepts
+"financial transactions are handled by the finance sector, which also maintains records of all financial data. In a similar vein, the sales section is in charge of all tasks relating to sales and maintains a record of each sale. Now, a scenario could occur when, for some reason, a financial official requires all the information on sales for a specific month. Under the umbrella term ""sales section,"" all of the employees who can influence the sales section's data are grouped together. Data",https://www.javatpoint.com/cpp-oops-concepts
+"sales section's data are grouped together. Data abstraction or concealing is another side effect of encapsulation. In the same way that encapsulation hides the data. In the aforementioned example, any other area cannot access any of the data from any of the sections, such as sales, finance, or accounts. Dynamic Binding - In dynamic binding, a decision is made at runtime regarding the code that will be run in response to a function call. For this, C++ supports virtual functions. Advantage of",https://www.javatpoint.com/cpp-oops-concepts
+C++ supports virtual functions. Advantage of OOPs over Procedure-oriented programming language OOPs makes development and maintenance easier where as in Procedure-oriented programming language it is not easy to manage if code grows as project size grows. OOPs provide data hiding whereas in Procedure-oriented programming language a global data can be accessed from anywhere. OOPs provide ability to simulate real-world event much more effectively. We can provide the solution of real word problem,https://www.javatpoint.com/cpp-oops-concepts
+"We can provide the solution of real word problem if we are using the Object-Oriented Programming language. Why do we need oops in C++? There were various drawbacks to the early methods of programming, as well as poor performance. The approach couldn't effectively address real-world issues since, similar to procedural-oriented programming, you couldn't reuse the code within the program again, there was a difficulty with global data access, and so on. With the use of classes and objects,",https://www.javatpoint.com/cpp-oops-concepts
+"and so on. With the use of classes and objects, object-oriented programming makes code maintenance simple. Because inheritance allows for code reuse, the program is simpler because you don't have to write the same code repeatedly. Data hiding is also provided by ideas like encapsulation and abstraction. Why is C++ a partial oop? The object-oriented features of the C language were the primary motivation behind the construction of the C++ language. The C++ programming language is categorized as a",https://www.javatpoint.com/cpp-oops-concepts
+"The C++ programming language is categorized as a partial object-oriented programming language despite the fact that it supports OOP concepts, including classes, objects, inheritance, encapsulation, abstraction, and polymorphism. 1) The main function must always be outside the class in C++ and is required. This means that we may do without classes and objects and have a single main function in the application. It is expressed as an object in this case, which is the first time Pure OOP has been",https://www.javatpoint.com/cpp-oops-concepts
+"case, which is the first time Pure OOP has been violated. 2) Global variables are a feature of the C++ programming language that can be accessed by any other object within the program and are defined outside of it. Encapsulation is broken here. Even though C++ encourages encapsulation for classes and objects, it ignores it for global variables. Overloading Polymorphism also has a subset known as overloading. An existing operator or function is said to be overloaded when it is forced to operate",https://www.javatpoint.com/cpp-oops-concepts
+"to be overloaded when it is forced to operate on a new data type. Conclusion You will have gained an understanding of the need for object-oriented programming, what C++ OOPs are, and the fundamentals of OOPs, such as polymorphism, inheritance, encapsulation, etc., after reading this course on OOPS Concepts in C++. Along with instances of polymorphism and inheritance, you also learned about the benefits of C++ OOPs. Next Topic C++ Object and Class ← prev next →",https://www.javatpoint.com/cpp-oops-concepts
+"Latest Courses
+
+We provides tutorials and interview questions of all technology like java tutorial, android, java frameworks
+
+Contact info
+
+G-13, 2nd Floor, Sec-3, Noida, UP, 201301, India
+
+[email protected].
+
+Follow us
+
+Latest Post
+
+PRIVACY POLICY
+
+Tutorials
+
+Java Data Structures C Programming C++ Tutorial C# Tutorial PHP Tutorial HTML Tutorial JavaScript Tutorial jQuery Tutorial Spring Tutorial
+
+Interview Questions",https://www.javatpoint.com/cpp-oops-concepts
+"Interview Questions
+
+Tcs Intuit Wipro Adobe Infosys Amazon Accenture Cognizant Capgemini Microsoft
+
+Online Compiler
+
+C R C++ Php Java Html Swift Python JavaScript TypeScript
+
+© Copyright 2024 Javatpoint. All Rights Reserved.",https://www.javatpoint.com/cpp-oops-concepts
