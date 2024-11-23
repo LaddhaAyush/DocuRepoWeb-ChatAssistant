@@ -38,7 +38,7 @@ To run this project, you will need to add the following environment variables to
 
 `GROQ_API_KEY=your_groq_api_key`  
 `GOOGLE_API_KEY=your_google_api_key`  
-`QDRANT_URL_pdfchat=your_qdrant_url_pdf` 
+`QDRANT_URL_pdfchat=your_qdrant_url_pdf`   
 `QDRANT_API_KEY_pdfchat=your_qdrant_api_key_pdf `  
 `QDRANT_URL_repochat=your_qdrant_url_repo `  
 `QDRANT_API_KEY_repochat=your_qdrant_api_key_repo `
