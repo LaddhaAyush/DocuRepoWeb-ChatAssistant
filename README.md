@@ -1,5 +1,5 @@
 
-# DocuRepoWeb-ChatAssistant
+# Chat Assistant for Web URLs, PDFs, and GitHub Repositories
 
 This project is a document and repository query assistant that enables interaction with content from web URLs, PDFs, and GitHub repositories. It leverages Streamlit, LangChain, FAISS, and Qdrant to provide seamless conversational AI capabilities. Users can upload documents or provide URLs/repositories, and the application generates context-aware responses to user queries.
 
